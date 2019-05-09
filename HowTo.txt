@@ -1,0 +1,4 @@
+1. Install Microsoft Visual Studio (Community version is free and available on Mac).
+2. Open .sln file.
+3. Open main.cs and change data files path to where the .csv files are.
+4. Change the code inside the Main class and run.
